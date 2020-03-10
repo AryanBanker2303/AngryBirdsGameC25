@@ -8,4 +8,4 @@ class Log extends BaseClass{
     }
 
   };
-  
+  //Yeet I edited this on my phone
